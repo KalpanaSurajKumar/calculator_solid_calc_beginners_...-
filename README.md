@@ -1,4 +1,4 @@
-## A simple Calculator to perform all the mathematical operations
+## A simple Calculator(using html, css and javascript) to perform all the mathematical operations
 
 
 
